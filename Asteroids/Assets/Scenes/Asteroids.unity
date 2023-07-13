@@ -5482,6 +5482,8 @@ MonoBehaviour:
   lives: 3
   respawnTime: 3
   respawnInvulenarbilityTime: 3
+  explosion: {fileID: 170709800}
+  score: 0
 --- !u!4 &1462734622
 Transform:
   m_ObjectHideFlags: 0
