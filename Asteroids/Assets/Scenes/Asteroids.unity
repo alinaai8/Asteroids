@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 414427847}
   - component: {fileID: 414427846}
   - component: {fileID: 414427850}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -271,6 +271,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrustSpeed: 1
   turnSpeed: 0.1
+  bulletPrefab: {fileID: 7221981589808271163, guid: bed093a176e67cb4ebc73f9a56646090, type: 3}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
